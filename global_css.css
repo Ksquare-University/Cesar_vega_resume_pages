@@ -1,0 +1,80 @@
+@media only screen and (max-width: 1200px) and (min-width: 0px){
+    #Desktop{
+        display: none;
+    }
+    #Mobile{
+        display: block;   
+    }
+    img{   
+        width: 400px;
+        height: 266px;
+        margin-left: auto;
+        margin-right: auto;
+    }    
+}
+
+
+@media only screen and (max-width: 9999px) and (min-width: 1200px){
+ /* CSS that should be displayed if width is equal to or less than 991px and larger 
+  than 768px goes here */
+    #Desktop{
+        display: block;
+        margin: auto;
+    }
+    #Mobile{
+        display: none;   
+    }
+    img{
+        height: 300px;
+        width: 500px;
+    }
+}
+
+img{
+    filter: drop-shadow(0 0 1px white);
+    border-radius: 10px;
+    filter: opacity(90%);
+}    
+
+
+p{
+    color: #e8e8e8;
+    filter: drop-shadow(0 0 1px black);
+}
+h2{
+    color: #e8e8e8;
+    filter: drop-shadow(0 0 1px black);
+}
+h4{
+    color: #e8e8e8;
+    filter: drop-shadow(0 0 1px black);
+}
+
+h5{
+    color: #e8e8e8;
+    filter: drop-shadow(0 0 1px black);
+}
+
+.row{
+    margin: 40px 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.quote{
+    font-style: italic;    
+}
+
+
+
+.container{
+    /* background-color: #53A2BE; */
+    border-radius: 8px;
+    margin: 25px 5px;
+    filter: drop-shadow(0 0 10px black);
+}
+
+.hover06 figure:hover img {
+    -webkit-transform: rotate(0) scale(1);
+    transform: rotate(0) scale(1);
+}
