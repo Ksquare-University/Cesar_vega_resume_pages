@@ -78,3 +78,12 @@ h5{
     -webkit-transform: rotate(0) scale(1);
     transform: rotate(0) scale(1);
 }
+
+
+#navbar:hover{
+}
+
+#navbar{
+    background: none;
+    margin: auto;	
+}

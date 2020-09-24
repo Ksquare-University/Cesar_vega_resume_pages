@@ -536,5 +536,182 @@
 }
 
 
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#Parrilla .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/Parrilla.jpeg");
+  background-position: 30% 30%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
 
+#Parrilla .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/Parrilla.jpeg") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
 
+#Parrilla .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#Steak_inside .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/Steak_inside.jpeg");
+  background-position: 30% 30%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#Steak_inside .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/Steak_inside.jpeg") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#Steak_inside .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#Omelette .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/Omelette.jpeg");
+  background-position: 30% 30%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#Omelette .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/Omelette.jpeg") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#Omelette .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#economic_calendar .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/markus-spiske-3Tf1J8q9bBA-unsplash.jpg");
+  background-position: 30% 30%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#economic_calendar .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/markus-spiske-3Tf1J8q9bBA-unsplash.jpg") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#economic_calendar .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#AI_market .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/chris-liverani-dBI_My696Rk-unsplash.jpg");
+  background-position: 30% 30%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#AI_market .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/chris-liverani-dBI_My696Rk-unsplash.jpg") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#AI_market .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
