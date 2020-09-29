@@ -932,3 +932,39 @@
   transition: all 0s linear;
   opacity: 0;
 }
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#future_image .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/dandelion-463928_1920.jpg");
+  background-position: 30% 30%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#future_image .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/dandelion-463928_1920.jpg") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#future_image .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
