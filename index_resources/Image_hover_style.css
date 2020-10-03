@@ -968,3 +968,147 @@
   transition: all 0s linear;
   opacity: 0;
 }
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#certificacion_mem .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/Certificacion_mem.png");
+  background-position: 30% 30%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#certificacion_mem .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/Certificacion_mem.PNG") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#certificacion_mem .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#my_webservices_site .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/MyWebservicesSite.PNG");
+  background-position: 30% 30%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#my_webservices_site .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/MyWebservicesSite.PNG") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#my_webservices_site .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#AI_Server .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/ian-battaglia-9drS5E_Rguc-unsplash.jpg");
+  background-position: 30% 30%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#AI_Server .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/ian-battaglia-9drS5E_Rguc-unsplash.jpg") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#AI_Server .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#Deep_L_framework .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/pietro-jeng-n6B49lTx7NM-unsplash.jpg");
+  background-position: 30% 30%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#Deep_L_framework .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/pietro-jeng-n6B49lTx7NM-unsplash.jpg") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#Deep_L_framework .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
