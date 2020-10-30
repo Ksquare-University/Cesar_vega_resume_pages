@@ -11,6 +11,14 @@
         margin-left: auto;
         margin-right: auto;
     }    
+
+    #navbarButton{
+        display: block;
+    }
+
+    #navbar_main_col{
+        display: none;
+    }
 }
 
 
@@ -27,6 +35,9 @@
     img{
         height: 300px;
         width: 500px;
+    }
+    #navbarButton{
+        display: none;
     }
 }
 
@@ -81,10 +92,17 @@ h5{
 
 
 #navbar{
-    background: none;
-    margin: auto;	
+
 }
 
 #Mobile {
     margin: auto;
+}
+
+.row {
+	background: #242526;
+}
+
+body {
+	background:#18191a;
 }
