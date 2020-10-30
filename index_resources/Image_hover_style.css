@@ -1,0 +1,1114 @@
+#astronaut_image .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/monica-garniga-XClNDg9Z9Ag-unsplash.jpg");
+  background-position: 100% 100%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#astronaut_image .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/monica-garniga-XClNDg9Z9Ag-unsplash.jpg") repeat fixed;
+  background-position: 450px 0px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#astronaut_image .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+#canada_image .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/hermes-rivera-ahHn48-zKWo-unsplash.jpg");
+  background-position: 100% 100%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#canada_image .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/hermes-rivera-ahHn48-zKWo-unsplash.jpg") repeat fixed;
+  background-position: 300px 0px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#canada_image .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+#campus_mty_image .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/tec_de_mty_logo_y_campus_flip.png");
+  background-position: 100% 100%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#campus_mty_image .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/tec_de_mty_logo_y_campus_flip.png") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#campus_mty_image .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#bear_image .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/bear-2382779_1920.jpg");
+  background-position: 100% 100%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#bear_image .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/bear-2382779_1920.jpg") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#bear_image .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#DeAcero_image .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/shazia-mirza-SY_rtofT8jc-unsplash.jpg");
+  background-position: 100% 100%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#DeAcero_image .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/shazia-mirza-SY_rtofT8jc-unsplash.jpg") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#DeAcero_image .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#CIEMAT_image .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/drugs-2991157_1920.png");
+  background-position: 100% 100%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#CIEMAT_image .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/drugs-2991157_1920.png") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#CIEMAT_image .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#grad_image .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/graduation-1449488_1920_top_dark.png");
+  background-position: 100% 100%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#grad_image .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/graduation-1449488_1920_top_dark.png") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#grad_image .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#lo_fi_girl_image .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/lo_fi_girl.gif");
+  background-position: 100% 100%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#lo_fi_girl_image .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/lo_fi_girl.gif") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#lo_fi_girl_image .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#Start_at_ksq_image .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/programmer-1653351_1280.png");
+  background-position: 100% 100%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#Start_at_ksq_image .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/programmer-1653351_1280.png") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#Start_at_ksq_image .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#JavaScript_image .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/javascript-736400_1280.png");
+  background-position: 100% 100%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#JavaScript_image .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/javascript-736400_1280.png") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#JavaScript_image .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#expertise_images .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/web-1935737_1920.png");
+  background-position: 100% 100%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#expertise_images .i {
+  width: 50px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/web-1935737_1920.png") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#expertise_images .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#certs_and_courses_image .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/online-3412473_1920.jpg");
+  background-position: 100% 100%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#certs_and_courses_image .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/online-3412473_1920.jpg") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#certs_and_courses_image .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#Hobbies_image .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/art-2578353_1920.jpg");
+  background-position: 100% 100%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#Hobbies_image .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/art-2578353_1920.jpg") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#Hobbies_image .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#tronald_dump_image .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/morning-brew-V6CdmV277nY-unsplash.jpg");
+  background-position: 100% 100%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#tronald_dump_image .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/morning-brew-V6CdmV277nY-unsplash.jpg") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-tronald_dump_image: 0%;
+}
+
+#tronald_dump_image .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#My_site_screen_image .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/monica-garniga-XClNDg9Z9Ag-unsplash.jpg");
+  background-position: 100% 100%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#My_site_screen_image .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/monica-garniga-XClNDg9Z9Ag-unsplash.jpg") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-tronald_dump_image: 0%;
+}
+
+#My_site_screen_image .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#Parrilla .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/Parrilla.jpeg");
+  background-position: 30% 30%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#Parrilla .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/Parrilla.jpeg") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#Parrilla .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#Steak_inside .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/Steak_inside.jpeg");
+  background-position: 30% 30%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#Steak_inside .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/Steak_inside.jpeg") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#Steak_inside .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#Omelette .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/Omelette.jpeg");
+  background-position: 30% 30%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#Omelette .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/Omelette.jpeg") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#Omelette .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#economic_calendar .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/markus-spiske-3Tf1J8q9bBA-unsplash.jpg");
+  background-position: 30% 30%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#economic_calendar .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/markus-spiske-3Tf1J8q9bBA-unsplash.jpg") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#economic_calendar .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#AI_market .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/chris-liverani-dBI_My696Rk-unsplash.jpg");
+  background-position: 30% 30%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#AI_market .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/chris-liverani-dBI_My696Rk-unsplash.jpg") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#AI_market .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#never_spend_6_min .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/never_spend_6_min.jpg");
+  background-position: 30% 30%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#never_spend_6_min .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/never_spend_6_min.jpg") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#never_spend_6_min .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#eat_code_sleep .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/roman-synkevych-vXInUOv1n84-unsplash.jpg");
+  background-position: 30% 30%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#eat_code_sleep .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/roman-synkevych-vXInUOv1n84-unsplash.jpg") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#eat_code_sleep .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#board_game .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/morning-brew-BPY8ayApbIk-unsplash.jpg");
+  background-position: 30% 30%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#board_game .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/morning-brew-BPY8ayApbIk-unsplash.jpg") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#board_game .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#catan_victory .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/game_pub_victory.jpg");
+  background-position: 30% 30%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#catan_victory .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/game_pub_victory.jpg") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#catan_victory .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#start_workout .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/jelmer-assink-gzeTjGu3b_k-unsplash.jpg");
+  background-position: 30% 30%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#start_workout .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/jelmer-assink-gzeTjGu3b_k-unsplash.jpg") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#start_workout .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#excercise .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/dumbbell-1966247_1920.jpg");
+  background-position: 30% 30%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#excercise .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/dumbbell-1966247_1920.jpg") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#excercise .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#future_image .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/dandelion-463928_1920.jpg");
+  background-position: 30% 30%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#future_image .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/dandelion-463928_1920.jpg") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#future_image .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#certificacion_mem .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/Certificacion_mem.png");
+  background-position: 30% 30%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#certificacion_mem .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/Certificacion_mem.PNG") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#certificacion_mem .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#my_webservices_site .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/MyWebservicesSite.PNG");
+  background-position: 30% 30%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#my_webservices_site .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/MyWebservicesSite.PNG") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#my_webservices_site .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#AI_Server .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/ian-battaglia-9drS5E_Rguc-unsplash.jpg");
+  background-position: 30% 30%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#AI_Server .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/ian-battaglia-9drS5E_Rguc-unsplash.jpg") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#AI_Server .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+#Deep_L_framework .w {
+  white-space: nowrap;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  background: rgba(66, 66, 66, 0.5) url("../images/pietro-jeng-n6B49lTx7NM-unsplash.jpg");
+  background-position: 30% 30%;
+  background-size: cover;
+  position: relative;
+  z-index: 5;
+  font-size: 0;
+  border-radius: 10px;
+}
+
+#Deep_L_framework .i {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  z-index: 4;
+  padding: 2px;
+  -webkit-transition: all 30s ease-in-out;
+  transition: all 30s ease-in-out;
+  background: rgba(66, 66, 66, 0.5) url("../images/pietro-jeng-n6B49lTx7NM-unsplash.jpg") repeat fixed;
+  background-position: 300px -10px;
+  background-size: cover;
+  border-radius: 0%;
+}
+
+#Deep_L_framework .i:hover {
+  -webkit-transition: all 0s linear;
+  transition: all 0s linear;
+  opacity: 0;
+}
