@@ -91,3 +91,8 @@ h5{
 #Mobile {
     margin: auto;
 }
+
+#Mobile img{
+    width: 400px;
+    height: 240px;
+}
