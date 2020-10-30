@@ -6,8 +6,8 @@
         display: block;   
     }
     img{   
-        width: 400px;
-        height: 240px;
+        width: 100%;
+        height: 100%;
         margin-left: auto;
         margin-right: auto;
     }    
@@ -80,9 +80,6 @@ h5{
 }
 
 
-#navbar:hover{
-}
-
 #navbar{
     background: none;
     margin: auto;	
@@ -90,9 +87,4 @@ h5{
 
 #Mobile {
     margin: auto;
-}
-
-#Mobile img{
-    width: 400px;
-    height: 240px;
 }
